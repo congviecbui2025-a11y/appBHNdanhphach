@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Hệ thống Quản lý Đánh phách_V2",
+  "description": "Hệ thống quản lý đánh phách bài kiểm tra định kỳ trường THPT, phân công giáo viên, sinh mã phách bảo mật, in ấn biểu mẫu A4 và xuất Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
